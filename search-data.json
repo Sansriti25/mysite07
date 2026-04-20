@@ -15,7 +15,7 @@
     "tags": ["ssd", "brochure"],
     "region": "EMEA",
     "type": "asset",
-    "url": "/creator"
+    "url": "/creator-ssd-brochure"
   },
   {
     "id": "3",
@@ -24,6 +24,6 @@
     "tags": ["ssd", "gaming"],
     "region": "NA",
     "type": "campaign",
-    "url": "/gaming"
+    "url": "/gaming-ssd-campaign"
   }
 ]
