@@ -1,0 +1,36 @@
+.search-ui {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.search-input,
+.filter-region,
+.filter-type,
+.search-btn {
+  padding: 8px;
+  margin: 5px;
+}
+
+.search-btn {
+  cursor: pointer;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+.card {
+  border: 1px solid #eee;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
+
+.card h3 {
+  margin: 0 0 5px;
+}
+
+.card small {
+  color: #666;
+}

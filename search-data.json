@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Holiday SSD Launch Kit",
+    "description": "Approved launch kit for regional marketing teams.",
+    "tags": ["ssd", "holiday", "launch"],
+    "region": "NA",
+    "type": "campaign",
+    "url": "/test"
+  },
+  {
+    "id": "2",
+    "title": "Creator SSD Brochure",
+    "description": "PDF brochure for creators.",
+    "tags": ["ssd", "brochure"],
+    "region": "EMEA",
+    "type": "asset",
+    "url": "/creator"
+  },
+  {
+    "id": "3",
+    "title": "Gaming SSD Campaign",
+    "description": "Campaign for gaming SSD products.",
+    "tags": ["ssd", "gaming"],
+    "region": "NA",
+    "type": "campaign",
+    "url": "/gaming"
+  }
+]
